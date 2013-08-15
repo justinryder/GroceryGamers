@@ -1,0 +1,10 @@
+/MyNewHires/_ReSharper.MyNewHires
+/MyNewHires/*.suo
+/MyNewHires/MyNewHires.Mvc/bin
+/MyNewHires/MyNewHires.Mvc/obj
+/MyNewHires/MyNewHires.Mvc/*.user
+/MyNewHires/MyNewHires.Database/obj
+/MyNewHires/MyNewHires.Data/obj
+/MyNewHires/MyNewHires.Data/bin
+/MyNewHires/MyNewHires/bin
+/MyNewHires/MyNewHires/obj
